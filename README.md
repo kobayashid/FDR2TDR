@@ -6,3 +6,9 @@
 ## Usage
 ```bash
 python FDR2TDR.py input.s1p output.csv
+
+- `input.s1p`: The input Touchstone file containing frequency-domain S11 data.
+- `output.csv`: The output CSV file to save the processed data (location and real part of the step response).
+
+## Usage
+
