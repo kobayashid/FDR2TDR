@@ -18,5 +18,5 @@ python FDR2TDR.py sample.s1p results.csv
 ```
 
 ## Notes
-- The program only processes the real part of the step response and saves it to the CSV file.
 - The velocity factor used for distance calculation is set to 0.66, which is typical for 50-ohm coaxial cables.
+- Please clearly indicate the source when using.
