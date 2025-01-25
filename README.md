@@ -18,6 +18,4 @@ python FDR2TDR.py sample.s1p results.csv
 ```
 
 ## Notes
-- The velocity factor used for distance calculation is set to 0.66, which is typical for 50-ohm coaxial cables.
-- The detailed usage instructions are provided in this paper. Please cite this paper when using this program.
-- cite information of paper(later).
+- The velocity factor used in the distance calculation is initially set to 0.66. This corresponds to a standard 50 Ω coaxial cable. It should be appropriately changed by the user according to the measurement conditions.
